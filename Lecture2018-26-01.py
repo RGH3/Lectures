@@ -2,7 +2,11 @@ from csc131 import Dictionaries
 
 def main():
     print("Main")
-    print(Dictionaries.get_personal_data())
+    d = Dictionaries.get_personal_data()
+    print(d)
+    for key in sorted(d.keys())
+        print("%s: %s" % (key, d[key]))
+
 
 
 if __name__ == '__main__':
