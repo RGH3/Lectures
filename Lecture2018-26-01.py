@@ -4,7 +4,7 @@ def main():
     print("Main")
     d = Dictionaries.get_personal_data()
     print(d)
-    for key in sorted(d.keys())
+    for key in sorted(d.keys()):
         print("%s: %s" % (key, d[key]))
 
 
