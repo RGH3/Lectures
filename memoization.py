@@ -30,11 +30,11 @@ def main() -> int:
     my_dictionary = {}
     f = fib_memoization(6, my_dictionary)
     print(f)
-    f = fib_tab(6, my_dictionary)
-    print(f)
+    f2 = fib_tab(6, my_dictionary)
+    print(f2)
 
 
-if '__name__' == '__main__':
+if __name__ == '__main__':
     main()
 
 #tabulation:
