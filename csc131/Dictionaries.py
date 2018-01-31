@@ -25,6 +25,7 @@ def main() -> int:
     print(my_comprehension)
 
     #s = "a little lamb, it's fleece".split()
+    print(string.punctuation)
     s = "little,".translate({ord(i): None for i in string.punctuation})
     print(s)
 

@@ -16,3 +16,11 @@ Lecture2018-26-01.py
 Dictionaries.py
 '''
 #
+
+#
+#1/31/18
+'''
+going over Lab02 a bit
+created memoization.py
+'''
+#
