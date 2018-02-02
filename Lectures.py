@@ -24,3 +24,10 @@ going over Lab02 a bit
 created memoization.py
 '''
 #
+
+#
+#2/2/18:
+'''
+HOF.py
+'''
+#
