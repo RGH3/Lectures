@@ -31,3 +31,18 @@ created memoization.py
 HOF.py
 '''
 #
+
+#
+#2/5/18:
+'''
+missed, told we went over turtles
+'''
+#
+
+#
+#2/7/18
+'''
+going over lab03 a bit
+polygons.py
+'''
+#
