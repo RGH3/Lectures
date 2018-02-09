@@ -46,3 +46,10 @@ going over lab03 a bit
 polygons.py
 '''
 #
+
+#
+#2/9/18
+'''
+worked on polygons.py a minute amount -> higher order functions, though
+'''
+#

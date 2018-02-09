@@ -65,8 +65,26 @@ def octagon(t: Turtle, length: int) -> None:
         t.forward(length)
         t.left(45)
 
+def radial_pattern(t: Turtle, n: int, length: int, shape) -> None:
+    """
+    Draws a radial pattern of n shapes with the given length
+    :param t:
+    :param n:
+    :param length:
+    :param shape:
+    :return:
+    """
+    for count in range(n):
+        shape(t, length)
+        t.left(360, n)
+
+
 def main():
-    t = Turtle.turtle
+    a_turtle = Turtle()
+    screen = Screen()
+    radial_pattern(a_turtle, n=10, length=50, shape=square)
+    screen.exitonclick()
+
 
 
 if __name__ == "__main__":
