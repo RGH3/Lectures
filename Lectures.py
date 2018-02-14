@@ -53,3 +53,10 @@ polygons.py
 worked on polygons.py a minute amount -> higher order functions, though
 '''
 #
+
+#
+#2/14/19
+'''
+EasyFrame
+'''
+#
